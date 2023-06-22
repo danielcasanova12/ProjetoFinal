@@ -1,0 +1,120 @@
+C:\Users\joaop\OneDrive\Documentos\UTFPR\3 semestre\Programação Orientada ao Objeto\TrabalhoFinal\bin\Debug\net7.0\GerenciadorVendas.exe
+C:\Users\joaop\OneDrive\Documentos\UTFPR\3 semestre\Programação Orientada ao Objeto\TrabalhoFinal\bin\Debug\net7.0\GerenciadorVendas.deps.json
+C:\Users\joaop\OneDrive\Documentos\UTFPR\3 semestre\Programação Orientada ao Objeto\TrabalhoFinal\bin\Debug\net7.0\GerenciadorVendas.runtimeconfig.json
+C:\Users\joaop\OneDrive\Documentos\UTFPR\3 semestre\Programação Orientada ao Objeto\TrabalhoFinal\bin\Debug\net7.0\GerenciadorVendas.dll
+C:\Users\joaop\OneDrive\Documentos\UTFPR\3 semestre\Programação Orientada ao Objeto\TrabalhoFinal\bin\Debug\net7.0\GerenciadorVendas.pdb
+C:\Users\joaop\OneDrive\Documentos\UTFPR\3 semestre\Programação Orientada ao Objeto\TrabalhoFinal\obj\Debug\net7.0\GerenciadorVendas.csproj.AssemblyReference.cache
+C:\Users\joaop\OneDrive\Documentos\UTFPR\3 semestre\Programação Orientada ao Objeto\TrabalhoFinal\obj\Debug\net7.0\GerenciadorVendas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaop\OneDrive\Documentos\UTFPR\3 semestre\Programação Orientada ao Objeto\TrabalhoFinal\obj\Debug\net7.0\GerenciadorVendas.AssemblyInfoInputs.cache
+C:\Users\joaop\OneDrive\Documentos\UTFPR\3 semestre\Programação Orientada ao Objeto\TrabalhoFinal\obj\Debug\net7.0\GerenciadorVendas.AssemblyInfo.cs
+C:\Users\joaop\OneDrive\Documentos\UTFPR\3 semestre\Programação Orientada ao Objeto\TrabalhoFinal\obj\Debug\net7.0\GerenciadorVendas.csproj.CoreCompileInputs.cache
+C:\Users\joaop\OneDrive\Documentos\UTFPR\3 semestre\Programação Orientada ao Objeto\TrabalhoFinal\obj\Debug\net7.0\GerenciadorVendas.dll
+C:\Users\joaop\OneDrive\Documentos\UTFPR\3 semestre\Programação Orientada ao Objeto\TrabalhoFinal\obj\Debug\net7.0\refint\GerenciadorVendas.dll
+C:\Users\joaop\OneDrive\Documentos\UTFPR\3 semestre\Programação Orientada ao Objeto\TrabalhoFinal\obj\Debug\net7.0\GerenciadorVendas.pdb
+C:\Users\joaop\OneDrive\Documentos\UTFPR\3 semestre\Programação Orientada ao Objeto\TrabalhoFinal\obj\Debug\net7.0\GerenciadorVendas.genruntimeconfig.cache
+C:\Users\joaop\OneDrive\Documentos\UTFPR\3 semestre\Programação Orientada ao Objeto\TrabalhoFinal\obj\Debug\net7.0\ref\GerenciadorVendas.dll
+C:\Users\daneil\Source\Repos\ProjetoFinal2\TrabalhoFinal\bin\Debug\net7.0\GerenciadorVendas.exe
+C:\Users\daneil\Source\Repos\ProjetoFinal2\TrabalhoFinal\bin\Debug\net7.0\GerenciadorVendas.deps.json
+C:\Users\daneil\Source\Repos\ProjetoFinal2\TrabalhoFinal\bin\Debug\net7.0\GerenciadorVendas.runtimeconfig.json
+C:\Users\daneil\Source\Repos\ProjetoFinal2\TrabalhoFinal\bin\Debug\net7.0\GerenciadorVendas.dll
+C:\Users\daneil\Source\Repos\ProjetoFinal2\TrabalhoFinal\bin\Debug\net7.0\GerenciadorVendas.pdb
+C:\Users\daneil\Source\Repos\ProjetoFinal2\TrabalhoFinal\bin\Debug\net7.0\Humanizer.dll
+C:\Users\daneil\Source\Repos\ProjetoFinal2\TrabalhoFinal\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\daneil\Source\Repos\ProjetoFinal2\TrabalhoFinal\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\daneil\Source\Repos\ProjetoFinal2\TrabalhoFinal\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\daneil\Source\Repos\ProjetoFinal2\TrabalhoFinal\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\daneil\Source\Repos\ProjetoFinal2\TrabalhoFinal\bin\Debug\net7.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\daneil\Source\Repos\ProjetoFinal2\TrabalhoFinal\bin\Debug\net7.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\daneil\Source\Repos\ProjetoFinal2\TrabalhoFinal\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\daneil\Source\Repos\ProjetoFinal2\TrabalhoFinal\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\daneil\Source\Repos\ProjetoFinal2\TrabalhoFinal\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\daneil\Source\Repos\ProjetoFinal2\TrabalhoFinal\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\daneil\Source\Repos\ProjetoFinal2\TrabalhoFinal\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+C:\Users\daneil\Source\Repos\ProjetoFinal2\TrabalhoFinal\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\daneil\Source\Repos\ProjetoFinal2\TrabalhoFinal\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\daneil\Source\Repos\ProjetoFinal2\TrabalhoFinal\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+C:\Users\daneil\Source\Repos\ProjetoFinal2\TrabalhoFinal\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\daneil\Source\Repos\ProjetoFinal2\TrabalhoFinal\bin\Debug\net7.0\MySqlConnector.dll
+C:\Users\daneil\Source\Repos\ProjetoFinal2\TrabalhoFinal\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\daneil\Source\Repos\ProjetoFinal2\TrabalhoFinal\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\daneil\Source\Repos\ProjetoFinal2\TrabalhoFinal\obj\Debug\net7.0\GerenciadorVendas.csproj.AssemblyReference.cache
+C:\Users\daneil\Source\Repos\ProjetoFinal2\TrabalhoFinal\obj\Debug\net7.0\GerenciadorVendas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daneil\Source\Repos\ProjetoFinal2\TrabalhoFinal\obj\Debug\net7.0\GerenciadorVendas.AssemblyInfoInputs.cache
+C:\Users\daneil\Source\Repos\ProjetoFinal2\TrabalhoFinal\obj\Debug\net7.0\GerenciadorVendas.AssemblyInfo.cs
+C:\Users\daneil\Source\Repos\ProjetoFinal2\TrabalhoFinal\obj\Debug\net7.0\GerenciadorVendas.csproj.CoreCompileInputs.cache
+C:\Users\daneil\Source\Repos\ProjetoFinal2\TrabalhoFinal\obj\Debug\net7.0\GerenciadorVendas.csproj.CopyComplete
+C:\Users\daneil\Source\Repos\ProjetoFinal2\TrabalhoFinal\obj\Debug\net7.0\GerenciadorVendas.dll
+C:\Users\daneil\Source\Repos\ProjetoFinal2\TrabalhoFinal\obj\Debug\net7.0\refint\GerenciadorVendas.dll
+C:\Users\daneil\Source\Repos\ProjetoFinal2\TrabalhoFinal\obj\Debug\net7.0\GerenciadorVendas.pdb
+C:\Users\daneil\Source\Repos\ProjetoFinal2\TrabalhoFinal\obj\Debug\net7.0\GerenciadorVendas.genruntimeconfig.cache
+C:\Users\daneil\Source\Repos\ProjetoFinal2\TrabalhoFinal\obj\Debug\net7.0\ref\GerenciadorVendas.dll
+C:\Users\daneil\Source\Repos\ProjetoFinal5\ProjetoFinal2\TrabalhoFinal\bin\Debug\net7.0\GerenciadorVendas.exe
+C:\Users\daneil\Source\Repos\ProjetoFinal5\ProjetoFinal2\TrabalhoFinal\bin\Debug\net7.0\GerenciadorVendas.deps.json
+C:\Users\daneil\Source\Repos\ProjetoFinal5\ProjetoFinal2\TrabalhoFinal\bin\Debug\net7.0\GerenciadorVendas.runtimeconfig.json
+C:\Users\daneil\Source\Repos\ProjetoFinal5\ProjetoFinal2\TrabalhoFinal\bin\Debug\net7.0\GerenciadorVendas.dll
+C:\Users\daneil\Source\Repos\ProjetoFinal5\ProjetoFinal2\TrabalhoFinal\bin\Debug\net7.0\GerenciadorVendas.pdb
+C:\Users\daneil\Source\Repos\ProjetoFinal5\ProjetoFinal2\TrabalhoFinal\bin\Debug\net7.0\Humanizer.dll
+C:\Users\daneil\Source\Repos\ProjetoFinal5\ProjetoFinal2\TrabalhoFinal\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\daneil\Source\Repos\ProjetoFinal5\ProjetoFinal2\TrabalhoFinal\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\daneil\Source\Repos\ProjetoFinal5\ProjetoFinal2\TrabalhoFinal\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\daneil\Source\Repos\ProjetoFinal5\ProjetoFinal2\TrabalhoFinal\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\daneil\Source\Repos\ProjetoFinal5\ProjetoFinal2\TrabalhoFinal\bin\Debug\net7.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\daneil\Source\Repos\ProjetoFinal5\ProjetoFinal2\TrabalhoFinal\bin\Debug\net7.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\daneil\Source\Repos\ProjetoFinal5\ProjetoFinal2\TrabalhoFinal\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\daneil\Source\Repos\ProjetoFinal5\ProjetoFinal2\TrabalhoFinal\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\daneil\Source\Repos\ProjetoFinal5\ProjetoFinal2\TrabalhoFinal\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\daneil\Source\Repos\ProjetoFinal5\ProjetoFinal2\TrabalhoFinal\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\daneil\Source\Repos\ProjetoFinal5\ProjetoFinal2\TrabalhoFinal\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+C:\Users\daneil\Source\Repos\ProjetoFinal5\ProjetoFinal2\TrabalhoFinal\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\daneil\Source\Repos\ProjetoFinal5\ProjetoFinal2\TrabalhoFinal\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\daneil\Source\Repos\ProjetoFinal5\ProjetoFinal2\TrabalhoFinal\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+C:\Users\daneil\Source\Repos\ProjetoFinal5\ProjetoFinal2\TrabalhoFinal\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\daneil\Source\Repos\ProjetoFinal5\ProjetoFinal2\TrabalhoFinal\bin\Debug\net7.0\MySqlConnector.dll
+C:\Users\daneil\Source\Repos\ProjetoFinal5\ProjetoFinal2\TrabalhoFinal\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\daneil\Source\Repos\ProjetoFinal5\ProjetoFinal2\TrabalhoFinal\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\daneil\Source\Repos\ProjetoFinal5\ProjetoFinal2\TrabalhoFinal\obj\Debug\net7.0\GerenciadorVendas.csproj.AssemblyReference.cache
+C:\Users\daneil\Source\Repos\ProjetoFinal5\ProjetoFinal2\TrabalhoFinal\obj\Debug\net7.0\GerenciadorVendas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daneil\Source\Repos\ProjetoFinal5\ProjetoFinal2\TrabalhoFinal\obj\Debug\net7.0\GerenciadorVendas.AssemblyInfoInputs.cache
+C:\Users\daneil\Source\Repos\ProjetoFinal5\ProjetoFinal2\TrabalhoFinal\obj\Debug\net7.0\GerenciadorVendas.AssemblyInfo.cs
+C:\Users\daneil\Source\Repos\ProjetoFinal5\ProjetoFinal2\TrabalhoFinal\obj\Debug\net7.0\GerenciadorVendas.csproj.CoreCompileInputs.cache
+C:\Users\daneil\Source\Repos\ProjetoFinal5\ProjetoFinal2\TrabalhoFinal\obj\Debug\net7.0\GerenciadorVendas.csproj.CopyComplete
+C:\Users\daneil\Source\Repos\ProjetoFinal5\ProjetoFinal2\TrabalhoFinal\obj\Debug\net7.0\GerenciadorVendas.dll
+C:\Users\daneil\Source\Repos\ProjetoFinal5\ProjetoFinal2\TrabalhoFinal\obj\Debug\net7.0\refint\GerenciadorVendas.dll
+C:\Users\daneil\Source\Repos\ProjetoFinal5\ProjetoFinal2\TrabalhoFinal\obj\Debug\net7.0\GerenciadorVendas.pdb
+C:\Users\daneil\Source\Repos\ProjetoFinal5\ProjetoFinal2\TrabalhoFinal\obj\Debug\net7.0\GerenciadorVendas.genruntimeconfig.cache
+C:\Users\daneil\Source\Repos\ProjetoFinal5\ProjetoFinal2\TrabalhoFinal\obj\Debug\net7.0\ref\GerenciadorVendas.dll
+C:\Users\daneil\Source\Repos\ProjetoFinal9\ProjetoFinal2\TrabalhoFinal\bin\Debug\net7.0\GerenciadorVendas.exe
+C:\Users\daneil\Source\Repos\ProjetoFinal9\ProjetoFinal2\TrabalhoFinal\bin\Debug\net7.0\GerenciadorVendas.deps.json
+C:\Users\daneil\Source\Repos\ProjetoFinal9\ProjetoFinal2\TrabalhoFinal\bin\Debug\net7.0\GerenciadorVendas.runtimeconfig.json
+C:\Users\daneil\Source\Repos\ProjetoFinal9\ProjetoFinal2\TrabalhoFinal\bin\Debug\net7.0\GerenciadorVendas.dll
+C:\Users\daneil\Source\Repos\ProjetoFinal9\ProjetoFinal2\TrabalhoFinal\bin\Debug\net7.0\GerenciadorVendas.pdb
+C:\Users\daneil\Source\Repos\ProjetoFinal9\ProjetoFinal2\TrabalhoFinal\bin\Debug\net7.0\Humanizer.dll
+C:\Users\daneil\Source\Repos\ProjetoFinal9\ProjetoFinal2\TrabalhoFinal\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\daneil\Source\Repos\ProjetoFinal9\ProjetoFinal2\TrabalhoFinal\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\daneil\Source\Repos\ProjetoFinal9\ProjetoFinal2\TrabalhoFinal\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\daneil\Source\Repos\ProjetoFinal9\ProjetoFinal2\TrabalhoFinal\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\daneil\Source\Repos\ProjetoFinal9\ProjetoFinal2\TrabalhoFinal\bin\Debug\net7.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\daneil\Source\Repos\ProjetoFinal9\ProjetoFinal2\TrabalhoFinal\bin\Debug\net7.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\daneil\Source\Repos\ProjetoFinal9\ProjetoFinal2\TrabalhoFinal\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\daneil\Source\Repos\ProjetoFinal9\ProjetoFinal2\TrabalhoFinal\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\daneil\Source\Repos\ProjetoFinal9\ProjetoFinal2\TrabalhoFinal\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\daneil\Source\Repos\ProjetoFinal9\ProjetoFinal2\TrabalhoFinal\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\daneil\Source\Repos\ProjetoFinal9\ProjetoFinal2\TrabalhoFinal\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+C:\Users\daneil\Source\Repos\ProjetoFinal9\ProjetoFinal2\TrabalhoFinal\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\daneil\Source\Repos\ProjetoFinal9\ProjetoFinal2\TrabalhoFinal\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\daneil\Source\Repos\ProjetoFinal9\ProjetoFinal2\TrabalhoFinal\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+C:\Users\daneil\Source\Repos\ProjetoFinal9\ProjetoFinal2\TrabalhoFinal\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\daneil\Source\Repos\ProjetoFinal9\ProjetoFinal2\TrabalhoFinal\bin\Debug\net7.0\MySqlConnector.dll
+C:\Users\daneil\Source\Repos\ProjetoFinal9\ProjetoFinal2\TrabalhoFinal\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\daneil\Source\Repos\ProjetoFinal9\ProjetoFinal2\TrabalhoFinal\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\daneil\Source\Repos\ProjetoFinal9\ProjetoFinal2\TrabalhoFinal\obj\Debug\net7.0\GerenciadorVendas.csproj.AssemblyReference.cache
+C:\Users\daneil\Source\Repos\ProjetoFinal9\ProjetoFinal2\TrabalhoFinal\obj\Debug\net7.0\GerenciadorVendas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daneil\Source\Repos\ProjetoFinal9\ProjetoFinal2\TrabalhoFinal\obj\Debug\net7.0\GerenciadorVendas.AssemblyInfoInputs.cache
+C:\Users\daneil\Source\Repos\ProjetoFinal9\ProjetoFinal2\TrabalhoFinal\obj\Debug\net7.0\GerenciadorVendas.AssemblyInfo.cs
+C:\Users\daneil\Source\Repos\ProjetoFinal9\ProjetoFinal2\TrabalhoFinal\obj\Debug\net7.0\GerenciadorVendas.csproj.CoreCompileInputs.cache
+C:\Users\daneil\Source\Repos\ProjetoFinal9\ProjetoFinal2\TrabalhoFinal\obj\Debug\net7.0\GerenciadorVendas.csproj.CopyComplete
+C:\Users\daneil\Source\Repos\ProjetoFinal9\ProjetoFinal2\TrabalhoFinal\obj\Debug\net7.0\GerenciadorVendas.dll
+C:\Users\daneil\Source\Repos\ProjetoFinal9\ProjetoFinal2\TrabalhoFinal\obj\Debug\net7.0\refint\GerenciadorVendas.dll
+C:\Users\daneil\Source\Repos\ProjetoFinal9\ProjetoFinal2\TrabalhoFinal\obj\Debug\net7.0\GerenciadorVendas.pdb
+C:\Users\daneil\Source\Repos\ProjetoFinal9\ProjetoFinal2\TrabalhoFinal\obj\Debug\net7.0\GerenciadorVendas.genruntimeconfig.cache
+C:\Users\daneil\Source\Repos\ProjetoFinal9\ProjetoFinal2\TrabalhoFinal\obj\Debug\net7.0\ref\GerenciadorVendas.dll
